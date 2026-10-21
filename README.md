@@ -85,3 +85,9 @@ docs/verify.md               到手验活清单与后门检查
 内容基于实际使用与踩坑记录整理，不构成购买建议。账号交易在部分国家和地区存在法律风险，请自行判断。
 
 发现内容有误，欢迎提 Issue。
+
+---
+
+## 相关仓库
+
+- https://github.com/cointaboo/chatgpt-plus-china-guide
